@@ -1,0 +1,10 @@
+name: trackmarks
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.12.4
+- movingpandas
+- scikit-mobility
+- OSMnx
+- pint
